@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.header{
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+#note{
+    font-size: 15px;
+}
+
+canvas{
+    border: solid white 5px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+#object-name{
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.start_button{
+    font-size: 20px;
+    width: 100px;
+}
